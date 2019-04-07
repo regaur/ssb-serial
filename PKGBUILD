@@ -1,6 +1,6 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 pkgname=ssb-serial
-pkgver=1.0.1
+pkgver=1.1.0
 pkgrel=1
 pkgdesc="Scuttlebot plugin that allows access to serial port"
 arch=('any')
